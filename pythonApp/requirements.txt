@@ -1,0 +1,4 @@
+requests
+cython
+pyjnius
+flask
