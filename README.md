@@ -1,2 +1,2 @@
 # servicechoreography
-Service choreography sample with Python, Java, ActiveMQ and Zookeeper
+Service choreography sample with Python, Java, RabbitMQ and Zookeeper

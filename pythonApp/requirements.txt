@@ -2,3 +2,4 @@ requests
 cython
 pyjnius
 flask
+pika
