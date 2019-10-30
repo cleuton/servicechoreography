@@ -31,7 +31,7 @@ In the previous figure we can see the test of these two services: Python code in
 
 The complete code for this simple example is at:
 - [**Java**](./javaApp/signature);
-- [**Python**]()./pythonApp/pythonclient.py);
+- [**Python**](./pythonApp/pythonclient.py);
 
 For Python dependencies, see the [requirements file](./pythonApp/requirements.txt);
 
@@ -200,7 +200,7 @@ d '{ "textfile" "../arquivo.txt" "hexSignature" "8ed7b4235f21db78c92e69082df3874
 http: // localhost: 5000 / api / signature
 ```
 
-Remember that the parameter “textFile” is the [path of the text file](./pythonApp/file.txt) and “hexSignature” is the digital signature.
+Remember that the parameter “textFile” is the [path of the text file](./pythonApp/arquivo.txt) and “hexSignature” is the digital signature.
 
 The service will answer like this:
 
