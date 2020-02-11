@@ -2,6 +2,8 @@
 
 **Cleuton Sampaio**
 
+[![](./banner_livros2.png)](https://www.lcm.com.br/site/#livros/busca?term=cleuton)
+
 [**PORTUGUESE VERSION HERE**](http://www.obomprogramador.com/2019/10/orquestracao-versus-coreografia-um.html)
 
 ![](./dois_microsservicos.png)
